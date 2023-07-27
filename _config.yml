@@ -31,6 +31,9 @@ github_username:  kikumaru-0316
 theme: Centrarium
 plugins:
   - jekyll-feed
+header_pages:
+  - about.md
+  - post
 
 # Exclude from processing.
 # The following items will not be processed, by default.
