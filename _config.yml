@@ -28,7 +28,7 @@ twitter_username:
 github_username:  kikumaru-0316
 
 # Build settings
-theme: minima
+remotr_theme: Centrarium
 plugins:
   - jekyll-feed
 
