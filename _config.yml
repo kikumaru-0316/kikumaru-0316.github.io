@@ -28,12 +28,10 @@ twitter_username:
 github_username:  kikumaru-0316
 
 # Build settings
-theme: Centrarium
+theme: minima
 plugins:
   - jekyll-feed
-header_pages:
-  - about.md
-  - post
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
