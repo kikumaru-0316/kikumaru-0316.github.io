@@ -282,9 +282,9 @@ defaults:
   # _posts
   - scope:
       path: "" # an empty string here means all files in the project
-      type: pages
+      type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: false
       comments: true
